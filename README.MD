@@ -37,4 +37,4 @@ The model effectively predicts bike rentals per hour. With accurate data and mor
 - Towards Data Science: Time Series Forecasting
 
 ## GitHub Link
-[GitHub Repository](https://github.com/yourusername/Bike-Rental-Prediction)
+[GitHub Repository](https://github.com/samarth02045/Bike-Rental-Prediction)
